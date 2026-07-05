@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashasvitomar18/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/yashasvitomar18/DSA/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/yashasvitomar18/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yashasvitomar18/DSA/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yashasvitomar18/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
