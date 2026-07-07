@@ -6,18 +6,21 @@
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+ * };**/
+
 class Solution {
 public:
-    ListNode* reverse(ListNode* head) {
+    ListNode* reverseList(ListNode* head) {
+        ListNode* temp = head;
         ListNode* prev = NULL;
-        while (head != NULL) {
-            ListNode* next = head->next;
-            head->next = prev;
-            prev = head;
-            head = next;
+
+        while (temp != NULL) {
+            ListNode* front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
         }
+
         return prev;
     }
 
@@ -28,30 +31,26 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-        // Find first middle
         while (fast->next != NULL && fast->next->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        // Reverse second half
-        ListNode* newHead = reverse(slow->next);
+        ListNode* newHead = reverseList(slow->next);
 
         ListNode* first = head;
         ListNode* second = newHead;
 
-        // Compare both halves
         while (second != NULL) {
             if (first->val != second->val) {
-                slow->next = reverse(newHead); // Restore list
+                slow->next = reverseList(newHead);
                 return false;
             }
             first = first->next;
             second = second->next;
         }
 
-        // Restore list
-        slow->next = reverse(newHead);
+        slow->next = reverseList(newHead);
 
         return true;
     }
