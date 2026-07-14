@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yashasvitomar18/DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/yashasvitomar18/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/yashasvitomar18/DSA/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashasvitomar18/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yashasvitomar18/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/yashasvitomar18/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/yashasvitomar18/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
