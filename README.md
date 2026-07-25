@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yashasvitomar18/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yashasvitomar18/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/yashasvitomar18/DSA/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/yashasvitomar18/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/yashasvitomar18/DSA/tree/master/0367-valid-perfect-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashasvitomar18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yashasvitomar18/DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashasvitomar18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yashasvitomar18/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
