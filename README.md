@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/yashasvitomar18/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashasvitomar18/DSA/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashasvitomar18/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashasvitomar18/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashasvitomar18/DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/yashasvitomar18/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashasvitomar18/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashasvitomar18/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashasvitomar18/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
