@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/yashasvitomar18/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/yashasvitomar18/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/yashasvitomar18/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/yashasvitomar18/DSA/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yashasvitomar18/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashasvitomar18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/yashasvitomar18/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/yashasvitomar18/DSA/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
