@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashasvitomar18/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashasvitomar18/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yashasvitomar18/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yashasvitomar18/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yashasvitomar18/DSA/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
 ## String Matching
 |  |
 | ------- |
