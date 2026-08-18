@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yashasvitomar18/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvitomar18/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yashasvitomar18/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yashasvitomar18/DSA/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yashasvitomar18/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasvitomar18/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yashasvitomar18/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
