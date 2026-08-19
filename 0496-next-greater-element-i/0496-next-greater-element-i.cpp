@@ -11,7 +11,12 @@ public:
                 st.pop();
             }
 
-            mp[nums2[i]] = st.empty() ? -1 : st.top();
+        if(st.empty()) {
+            mp[nums2[i]] = -1;
+        }
+        else {
+            mp[nums2[i]] = st.top();
+        }
 
             st.push(nums2[i]);
         }
