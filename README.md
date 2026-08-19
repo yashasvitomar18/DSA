@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashasvitomar18/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yashasvitomar18/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashasvitomar18/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashasvitomar18/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/yashasvitomar18/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashasvitomar18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashasvitomar18/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -207,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
