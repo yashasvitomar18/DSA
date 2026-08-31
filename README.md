@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/yashasvitomar18/DSA/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/yashasvitomar18/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/yashasvitomar18/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/yashasvitomar18/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashasvitomar18/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yashasvitomar18/DSA/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/yashasvitomar18/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/yashasvitomar18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashasvitomar18/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yashasvitomar18/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yashasvitomar18/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yashasvitomar18/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yashasvitomar18/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
 ## Linked List
