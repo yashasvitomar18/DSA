@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yashasvitomar18/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasvitomar18/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3875-construct-uniform-parity-array-i](https://github.com/yashasvitomar18/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/yashasvitomar18/DSA/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yashasvitomar18/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashasvitomar18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/yashasvitomar18/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
