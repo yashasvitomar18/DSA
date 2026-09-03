@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/yashasvitomar18/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashasvitomar18/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yashasvitomar18/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/yashasvitomar18/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashasvitomar18/DSA/tree/master/0503-next-greater-element-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yashasvitomar18/DSA/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/yashasvitomar18/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/yashasvitomar18/DSA/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/yashasvitomar18/DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -235,5 +237,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yashasvitomar18/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/yashasvitomar18/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
