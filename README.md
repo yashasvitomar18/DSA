@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yashasvitomar18/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/yashasvitomar18/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasvitomar18/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashasvitomar18/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashasvitomar18/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashasvitomar18/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/yashasvitomar18/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Linked List
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yashasvitomar18/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/yashasvitomar18/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashasvitomar18/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String Matching
 |  |
@@ -250,5 +253,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/yashasvitomar18/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/yashasvitomar18/DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/yashasvitomar18/DSA/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/yashasvitomar18/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashasvitomar18/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
