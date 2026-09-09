@@ -17,7 +17,7 @@ public:
             right++;
             sum+=nums[right];
 
-            double avg = (double)sum/k;
+            double avg =sum/k;
             ans = max(ans, avg);
         }
         return ans;
