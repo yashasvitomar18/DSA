@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yashasvitomar18/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/yashasvitomar18/DSA/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/yashasvitomar18/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yashasvitomar18/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashasvitomar18/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yashasvitomar18/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/yashasvitomar18/DSA/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashasvitomar18/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/yashasvitomar18/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/yashasvitomar18/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashasvitomar18/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
