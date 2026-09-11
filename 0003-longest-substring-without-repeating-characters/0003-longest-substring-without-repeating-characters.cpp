@@ -1,9 +1,7 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int hash[256];
-        fill(hash, hash + 256, -1);
-
+        vector<int>hash(256,-1);
         int left = 0;
         int right = 0;
         int maxlen = 0;
