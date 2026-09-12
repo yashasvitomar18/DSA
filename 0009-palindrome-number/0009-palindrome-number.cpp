@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        // Negative numbers and numbers ending with 0 (except 0) are not palindromes
         if (x < 0 || (x % 10 == 0 && x != 0))
             return false;
 
@@ -12,8 +11,7 @@ public:
             x /= 10;
         }
 
-        // Even digits: x == reversedHalf
-        // Odd digits: x == reversedHalf / 10
+    
         return (x == reversedHalf || x == reversedHalf / 10);
     }
 };
