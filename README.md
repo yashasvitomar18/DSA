@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yashasvitomar18/DSA/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashasvitomar18/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yashasvitomar18/DSA/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/yashasvitomar18/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvitomar18/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashasvitomar18/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/yashasvitomar18/DSA/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/yashasvitomar18/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/yashasvitomar18/DSA/tree/master/0904-fruit-into-baskets) |
 ## Math
 |  |
