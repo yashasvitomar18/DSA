@@ -5,20 +5,15 @@ public:
         int left = 0;
         int right = 0;
         int maxlen = 0;
-
-        while(right < s.length()) {
-
-            if(hash[s[right]] >= left) {
+        while(right<s.length()){
+            if(hash[s[right]]>=left){
                 left = hash[s[right]] + 1;
             }
+        hash[s[right]] = right;
 
-            hash[s[right]] = right;
-
-            maxlen = max(maxlen, right - left + 1);
-
+            maxlen = max(maxlen,right-left+1);
             right++;
         }
-
         return maxlen;
     }
 };
