@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashasvitomar18/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/yashasvitomar18/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashasvitomar18/DSA/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/yashasvitomar18/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvitomar18/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yashasvitomar18/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/yashasvitomar18/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/yashasvitomar18/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvitomar18/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yashasvitomar18/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yashasvitomar18/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/yashasvitomar18/DSA/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/yashasvitomar18/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yashasvitomar18/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/yashasvitomar18/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/yashasvitomar18/DSA/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yashasvitomar18/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashasvitomar18/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## String Matching
