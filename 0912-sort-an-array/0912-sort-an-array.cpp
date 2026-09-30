@@ -1,64 +1,38 @@
 class Solution {
 public:
 
-    void merge(vector<int>& nums, int low, int mid, int high) {
-
-        vector<int> temp;
-
-        int i = low;
-        int j = mid + 1;
-
-        // Compare both sorted halves
-        while(i <= mid && j <= high) {
-
-            if(nums[i] <= nums[j]) {
-                temp.push_back(nums[i]);
-                i++;
-            }
-            else {
-                temp.push_back(nums[j]);
-                j++;
-            }
-        }
-
-        // Left half ke remaining elements
-        while(i <= mid) {
-            temp.push_back(nums[i]);
-            i++;
-        }
-
-        // Right half ke remaining elements
-        while(j <= high) {
-            temp.push_back(nums[j]);
-            j++;
-        }
-
-        // temp ko nums mein copy karo
-        for(int k = low; k <= high; k++) {
-            nums[k] = temp[k - low];
-        }
-    }
-
-
-    void mergeSort(vector<int>& nums, int low, int high) {
-
-        if(low >= high)
+    void quicksort(vector<int>& nums, int low, int high) {
+        if (low >= high)
             return;
 
-        int mid = low + (high - low) / 2;
+        // Random pivot
+        int p = low + rand() % (high - low + 1);
+        swap(nums[low], nums[p]);
 
-        mergeSort(nums, low, mid);
+        int pivot = nums[low];
+        int i = low;
+        int j = high;
 
-        mergeSort(nums, mid + 1, high);
+        while (i < j) {
 
-        merge(nums, low, mid, high);
+            while (i <= high && nums[i] <= pivot)
+                i++;
+
+            while (j > low && nums[j] >= pivot)
+                j--;
+
+            if (i < j)
+                swap(nums[i], nums[j]);
+        }
+
+        swap(nums[low], nums[j]);
+
+        quicksort(nums, low, j - 1);
+        quicksort(nums, j + 1, high);
     }
 
-
     vector<int> sortArray(vector<int>& nums) {
-
-        mergeSort(nums, 0, nums.size() - 1);
-
+        quicksort(nums, 0, nums.size() - 1);
         return nums;
     }
 };
