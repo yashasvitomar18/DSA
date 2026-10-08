@@ -11,20 +11,19 @@ public:
         for (int i = 0; i < s.length(); i++) {
             char ch = s[i];
 
-            // Opening bracket -> push
+            
             if (ch == '(' || ch == '{' || ch == '[') {
                 st.push(ch);
             }
-            // Closing bracket
+           
             else {
-                // No opening bracket available
+               
                 if (st.empty()) {
                     return false;
                 }
 
                 char top = st.top();
 
-                // Brackets don't match
                 if (!matches(top, ch)) {
                     return false;
                 }
@@ -33,7 +32,6 @@ public:
             }
         }
 
-        // Stack should be empty
         return st.empty();
     }
 };
