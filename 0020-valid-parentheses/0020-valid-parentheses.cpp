@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool matches(char top, char ch) {
-        return (top == '(' && ch == ')') ||
-               (top == '{' && ch == '}') ||
+        return (top == '(' && ch == ')') || (top == '{' && ch == '}') ||
                (top == '[' && ch == ']');
     }
 
