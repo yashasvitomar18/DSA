@@ -1,37 +1,21 @@
 class Solution {
 public:
-    bool matches(char top, char ch) {
-        return (top == '(' && ch == ')') || (top == '{' && ch == '}') ||
-               (top == '[' && ch == ']');
-    }
-
     bool isValid(string s) {
-        stack<char> st;
-
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s[i];
-
+        stack<char>st;
+        for(int i=0;i<s.length();i++){
+            if(s[i]=='('||s[i]=='{'||s[i]=='['){
+                st.push(s[i]);
+            }
+           else{
+            if(st.empty()) return false;
+            if(s[i]==')' && st.top()!='(') return false;
+            if(s[i]==']' && st.top()!='[') return false;
+            if(s[i]=='}' && st.top()!='{') return false;
             
-            if (ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);
-            }
-           
-            else {
-               
-                if (st.empty()) {
-                    return false;
-                }
-
-                char top = st.top();
-
-                if (!matches(top, ch)) {
-                    return false;
-                }
-
-                st.pop();
-            }
+            st.pop();
+           }
+            
         }
-
         return st.empty();
     }
 };
