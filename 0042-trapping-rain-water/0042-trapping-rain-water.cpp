@@ -11,7 +11,6 @@ public:
         while(left < right) {
             if(height[left] < height[right]) {
                 leftMax = max(leftMax, height[left]);
-
                 if(height[left] < leftMax) {
                     water += leftMax - height[left];
                 }
