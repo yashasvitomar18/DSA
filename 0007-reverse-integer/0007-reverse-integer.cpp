@@ -11,7 +11,6 @@ public:
                 return 0;
             }
 
-            // Underflow
             if (rev < INT_MIN / 10 || 
                (rev == INT_MIN / 10 && digit < -8)) {
                 return 0;
