@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashasvitomar18/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yashasvitomar18/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/yashasvitomar18/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/yashasvitomar18/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashasvitomar18/DSA/tree/master/0503-next-greater-element-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/yashasvitomar18/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/yashasvitomar18/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yashasvitomar18/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/yashasvitomar18/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/yashasvitomar18/DSA/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/yashasvitomar18/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/yashasvitomar18/DSA/tree/master/0933-number-of-recent-calls) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashasvitomar18/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/yashasvitomar18/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasvitomar18/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashasvitomar18/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashasvitomar18/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
