@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashasvitomar18/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/yashasvitomar18/DSA/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/yashasvitomar18/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yashasvitomar18/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashasvitomar18/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashasvitomar18/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashasvitomar18/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/yashasvitomar18/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashasvitomar18/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/yashasvitomar18/DSA/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yashasvitomar18/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasvitomar18/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashasvitomar18/DSA/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yashasvitomar18/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashasvitomar18/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashasvitomar18/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yashasvitomar18/DSA/tree/master/1480-running-sum-of-1d-array) |
