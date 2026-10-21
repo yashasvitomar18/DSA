@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashasvitomar18/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashasvitomar18/DSA/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasvitomar18/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/yashasvitomar18/DSA/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/yashasvitomar18/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashasvitomar18/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/yashasvitomar18/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/yashasvitomar18/DSA/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasvitomar18/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yashasvitomar18/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/yashasvitomar18/DSA/tree/master/0771-jewels-and-stones) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashasvitomar18/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yashasvitomar18/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/yashasvitomar18/DSA/tree/master/0367-valid-perfect-square) |
+| [0523-continuous-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yashasvitomar18/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashasvitomar18/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashasvitomar18/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashasvitomar18/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashasvitomar18/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/yashasvitomar18/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/yashasvitomar18/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashasvitomar18/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -407,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashasvitomar18/DSA/tree/master/0014-longest-common-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/yashasvitomar18/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
