@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yashasvitomar18/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/yashasvitomar18/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/yashasvitomar18/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/yashasvitomar18/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yashasvitomar18/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/yashasvitomar18/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashasvitomar18/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yashasvitomar18/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/yashasvitomar18/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
