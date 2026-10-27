@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashasvitomar18/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/yashasvitomar18/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/yashasvitomar18/DSA/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/yashasvitomar18/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/yashasvitomar18/DSA/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/yashasvitomar18/DSA/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashasvitomar18/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
