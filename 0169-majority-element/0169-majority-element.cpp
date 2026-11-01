@@ -11,7 +11,6 @@ public:
                 return nums[i];
             }
         }
-
         return 0;
     }
 };
