@@ -1,17 +1,24 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        if (x < 0 || (x % 10 == 0 && x != 0))
-            return false;
+        if(x < 0) return false;
 
-        int reversedHalf = 0;
+        stack<int> st;
+        int temp = x;
 
-        while (x > reversedHalf) {
-            reversedHalf = reversedHalf * 10 + x % 10;
-            x /= 10;
+        while(temp > 0) {
+            st.push(temp % 10);
+            temp /= 10;
         }
 
-    
-        return (x == reversedHalf || x == reversedHalf / 10);
+        while(x > 0) {
+            if(x % 10 != st.top())
+                return false;
+
+            x /= 10;
+            st.pop();
+        }
+
+        return true;
     }
 };
