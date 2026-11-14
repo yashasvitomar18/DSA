@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yashasvitomar18/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/yashasvitomar18/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/yashasvitomar18/DSA/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/yashasvitomar18/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/yashasvitomar18/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/yashasvitomar18/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/yashasvitomar18/DSA/tree/master/0904-fruit-into-baskets) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashasvitomar18/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/yashasvitomar18/DSA/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/yashasvitomar18/DSA/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/yashasvitomar18/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/yashasvitomar18/DSA/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
