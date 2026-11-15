@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yashasvitomar18/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/yashasvitomar18/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yashasvitomar18/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yashasvitomar18/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yashasvitomar18/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yashasvitomar18/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/yashasvitomar18/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yashasvitomar18/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashasvitomar18/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashasvitomar18/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yashasvitomar18/DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashasvitomar18/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/yashasvitomar18/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yashasvitomar18/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashasvitomar18/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yashasvitomar18/DSA/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/yashasvitomar18/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yashasvitomar18/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/yashasvitomar18/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
