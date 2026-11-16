@@ -20,7 +20,7 @@ public:
 
             solve(nums, index + 1, ans);
 
-            swap(nums[index], nums[i]); // backtrack
+            swap(nums[index], nums[i]);
         }
     }
 
